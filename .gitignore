@@ -1,0 +1,33 @@
+# ── Claude Code (internal dev tooling) ──
+.claude/
+PROYECTO_RESUMEN.md
+
+# ── Dev server scripts (local only) ──
+serve.js
+serve.ps1
+
+# ── OS junk ──
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ── Editor ──
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Env & secrets ──
+.env
+.env.*
+*.key
+*.pem
+
+# ── Logs ──
+*.log
+npm-debug.log*
+
+# ── Node (just in case) ──
+node_modules/
+package-lock.json
