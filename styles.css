@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════
    FRONTERA STUDIO
    fronterawebdesign.com
-   © 2026 Frontera Web LLC — El Paso, TX
+   © 2026 Frontera Web Design — El Paso, TX
 ═══════════════════════════════════════ */
 
 /* ── DESIGN TOKENS ── */
@@ -783,7 +783,7 @@ footer          { background: var(--blk); border-top: 1px solid var(--gray); pad
   .form-row       { grid-template-columns: 1fr; }
   .option-pills   { grid-template-columns: 1fr; }
   .trust-lbl      { display: none; }
-  #wa-btn, #top-btn { display: none; }
+  #top-btn { display: none; }
   #audit-bar      { font-size: 12px; padding: .5rem 1rem; gap: .5rem; }
   /* Restore normal cursor on touch devices */
   body, a, button, .btn-p, .btn-g, .btn-next, .btn-back, .price-btn,

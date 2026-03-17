@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════
    FRONTERA STUDIO
    fronterawebdesign.com
-   © 2026 Frontera Web LLC — El Paso, TX
+   © 2026 Frontera Web Design — El Paso, TX
 ═══════════════════════════════════════ */
 
 (function () {
@@ -465,7 +465,7 @@
       'lbl-name': 'Your name *', 'ph-name': 'Maria Garcia',
       'lbl-co': 'Company', 'ph-co': 'Garcia Law El Paso',
       'lbl-em': 'Email address *', 'ph-em': 'maria@example.com',
-      'lbl-ph': 'Phone (optional)', 'ph-ph': '915-555-0000',
+      'lbl-ph': 'Phone (optional)', 'ph-ph': '915-219-6739',
       'lbl-msg': 'Tell us about your project',
       'ph-msg': 'We are a restaurant in East El Paso and need a website that shows up when people search best tacos El Paso\u2026',
       'submit-btn': 'Send Free Audit Request',
@@ -482,7 +482,7 @@
       'f-svc5': 'Social Media Marketing', 'f-svc6': 'E-Commerce Development', 'f-svc7': 'Local SEO El Paso',
       'f-co1': 'About Frontera', 'f-co2': 'Our Work', 'f-co3': 'Our Process',
       'f-co4': 'Pricing', 'f-co5': 'Client Results', 'f-co6': 'Blog &amp; Insights', 'f-co7': 'Contact Us',
-      'f-copy': '\u00a9 2026 Frontera Web LLC \u2014 El Paso, Texas. All rights reserved.',
+      'f-copy': '\u00a9 2026 Frontera Web Design \u2014 El Paso, Texas. All rights reserved.',
       'f-priv': 'Privacy Policy', 'f-terms': 'Terms of Service', 'f-sitemap': 'Sitemap', 'f-access': 'Accessibility'
     },
     es: {
@@ -706,7 +706,7 @@
       'lbl-name': 'Tu nombre *', 'ph-name': 'Mar\u00eda Garc\u00eda',
       'lbl-co': 'Empresa', 'ph-co': 'Garc\u00eda Law El Paso',
       'lbl-em': 'Correo electr\u00f3nico *', 'ph-em': 'maria@ejemplo.com',
-      'lbl-ph': 'Tel\u00e9fono (opcional)', 'ph-ph': '915-555-0000',
+      'lbl-ph': 'Tel\u00e9fono (opcional)', 'ph-ph': '915-219-6739',
       'lbl-msg': 'Cu\u00e9ntanos sobre tu proyecto',
       'ph-msg': 'Somos un restaurante en East El Paso y necesitamos un sitio web que aparezca cuando la gente busca los mejores tacos en El Paso\u2026',
       'submit-btn': 'Enviar Solicitud de Auditor\u00eda',
@@ -723,7 +723,7 @@
       'f-svc5': 'Marketing en Redes Sociales', 'f-svc6': 'Desarrollo E-Commerce', 'f-svc7': 'SEO Local El Paso',
       'f-co1': 'Sobre Frontera', 'f-co2': 'Nuestros Proyectos', 'f-co3': 'Nuestro Proceso',
       'f-co4': 'Precios', 'f-co5': 'Resultados de Clientes', 'f-co6': 'Blog y Recursos', 'f-co7': 'Cont\u00e1ctanos',
-      'f-copy': '\u00a9 2026 Frontera Web LLC \u2014 El Paso, Texas. Todos los derechos reservados.',
+      'f-copy': '\u00a9 2026 Frontera Web Design \u2014 El Paso, Texas. Todos los derechos reservados.',
       'f-priv': 'Pol\u00edtica de Privacidad', 'f-terms': 'T\u00e9rminos de Servicio', 'f-sitemap': 'Mapa del Sitio', 'f-access': 'Accesibilidad'
     }
   };
