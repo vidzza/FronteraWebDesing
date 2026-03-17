@@ -1,0 +1,16 @@
+# robots.txt — Frontera Studio
+# https://fronterawebdesign.com
+
+User-agent: *
+Allow: /
+
+# Block assets that add no SEO value
+Disallow: /serve.js
+Disallow: /.claude/
+Disallow: /.github/
+
+# Sitemap location
+Sitemap: https://fronterawebdesign.com/sitemap.xml
+
+# LLM-friendly site summary (llmstxt.org standard)
+# https://fronterawebdesign.com/llms.txt
