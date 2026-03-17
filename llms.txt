@@ -1,8 +1,8 @@
-# Frontera Studio
+# Frontera Web
 
 > El Paso's premier web design and digital marketing agency. We build high-performance websites that rank on Google and convert visitors into paying customers. Serving El Paso TX, West Texas, Las Cruces NM, and Ciudad Juárez — bilingual English/Spanish.
 
-Frontera Studio is a boutique digital agency based in El Paso, Texas. We specialize in custom web design, local SEO, Google Ads management, branding, and e-commerce development for small and medium businesses in the El Paso–Ciudad Juárez border region.
+Frontera Web is a boutique digital agency based in El Paso, Texas. We specialize in custom web design, local SEO, Google Ads management, branding, and e-commerce development for small and medium businesses in the El Paso–Ciudad Juárez border region.
 
 - **Location:** El Paso, TX
 - **Phone:** +1 (915) 219-6739
@@ -31,7 +31,7 @@ El Paso TX · Horizon City TX · Socorro TX · Anthony TX · Sunland Park NM · 
 
 ## Case Studies & Results
 
-- [Portfolio & Results](https://fronterawebdesign.com/#cases): Client case studies including local businesses that achieved #1 Google rankings and significant revenue growth after working with Frontera Studio.
+- [Portfolio & Results](https://fronterawebdesign.com/#cases): Client case studies including local businesses that achieved #1 Google rankings and significant revenue growth after working with Frontera Web.
 
 ## Blog
 

@@ -1,4 +1,4 @@
-# robots.txt — Frontera Studio
+# robots.txt — Frontera Web
 # https://fronterawebdesign.com
 
 User-agent: *

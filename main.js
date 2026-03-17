@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════
    FRONTERA STUDIO
    fronterawebdesign.com
-   © 2026 Frontera Studio LLC — El Paso, TX
+   © 2026 Frontera Web LLC — El Paso, TX
 ═══════════════════════════════════════ */
 
 (function () {
@@ -294,7 +294,7 @@
       'svc6-desc':  'Shopify and WooCommerce stores engineered for the El Paso\u2013Ju\u00e1rez border economy. Bilingual UX, cross-border shipping flows, local payment methods, and Google Shopping optimization.',
       'svc6-res':   'Avg result: <strong>+445% online revenue</strong> in 8 months',
       /* why us */
-      'why-kicker': 'Why Frontera Studio',
+      'why-kicker': 'Why Frontera Web',
       'why-title':  'Results, not<br>just <span class="lime">promises.</span>',
       'why-desc':   'Not another generic digital agency. We\u2019re a specialized team born in El Paso \u2014 we know your market, your bilingual customers, and what it takes to win here.',
       'perk1-t': 'El Paso-native strategy',
@@ -482,7 +482,7 @@
       'f-svc5': 'Social Media Marketing', 'f-svc6': 'E-Commerce Development', 'f-svc7': 'Local SEO El Paso',
       'f-co1': 'About Frontera', 'f-co2': 'Our Work', 'f-co3': 'Our Process',
       'f-co4': 'Pricing', 'f-co5': 'Client Results', 'f-co6': 'Blog &amp; Insights', 'f-co7': 'Contact Us',
-      'f-copy': '\u00a9 2026 Frontera Studio LLC \u2014 El Paso, Texas. All rights reserved.',
+      'f-copy': '\u00a9 2026 Frontera Web LLC \u2014 El Paso, Texas. All rights reserved.',
       'f-priv': 'Privacy Policy', 'f-terms': 'Terms of Service', 'f-sitemap': 'Sitemap', 'f-access': 'Accessibility'
     },
     es: {
@@ -535,7 +535,7 @@
       'svc6-desc':  'Tiendas Shopify y WooCommerce dise\u00f1adas para la econom\u00eda fronteriza El Paso\u2013Ju\u00e1rez. UX biling\u00fce, flujos de env\u00edo transfronterizos, m\u00e9todos de pago locales y optimizaci\u00f3n de Google Shopping.',
       'svc6-res':   'Resultado prom.: <strong>+445% ingresos online</strong> en 8 meses',
       /* why us */
-      'why-kicker': 'Por qu\u00e9 Frontera Studio',
+      'why-kicker': 'Por qu\u00e9 Frontera Web',
       'why-title':  'Resultados, no<br>solo <span class="lime">promesas.</span>',
       'why-desc':   'No somos otra agencia digital gen\u00e9rica. Somos un equipo especializado nacido en El Paso \u2014 conocemos tu mercado, tus clientes biling\u00fces y lo que se necesita para ganar aqu\u00ed.',
       'perk1-t': 'Estrategia nativa de El Paso',
@@ -723,7 +723,7 @@
       'f-svc5': 'Marketing en Redes Sociales', 'f-svc6': 'Desarrollo E-Commerce', 'f-svc7': 'SEO Local El Paso',
       'f-co1': 'Sobre Frontera', 'f-co2': 'Nuestros Proyectos', 'f-co3': 'Nuestro Proceso',
       'f-co4': 'Precios', 'f-co5': 'Resultados de Clientes', 'f-co6': 'Blog y Recursos', 'f-co7': 'Cont\u00e1ctanos',
-      'f-copy': '\u00a9 2026 Frontera Studio LLC \u2014 El Paso, Texas. Todos los derechos reservados.',
+      'f-copy': '\u00a9 2026 Frontera Web LLC \u2014 El Paso, Texas. Todos los derechos reservados.',
       'f-priv': 'Pol\u00edtica de Privacidad', 'f-terms': 'T\u00e9rminos de Servicio', 'f-sitemap': 'Mapa del Sitio', 'f-access': 'Accesibilidad'
     }
   };
